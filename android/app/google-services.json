@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "922263463677",
+    "project_id": "ageapeacts",
+    "storage_bucket": "ageapeacts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922263463677:android:5433f2d0612e9138850094",
+        "android_client_info": {
+          "package_name": "com.example.agepeacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922263463677-d0tm1hf5ssbo6p331c9g2hjhtl2qdv5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMSvgmev0CFw_qz2EMv_Qr67xBhYnX_i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922263463677-d0tm1hf5ssbo6p331c9g2hjhtl2qdv5q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "922263463677-enafc3qf1385ld6f3cnh78ij7pevd6ee.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.agepeacts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
